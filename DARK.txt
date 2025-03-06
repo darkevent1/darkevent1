@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dark Event</title>
+</head>
+<body>
+    <h1>Dark Event</h1>
+    <p>Rəsmi fəaliyyət göstəririk. Könüllülər lazımdır, maaş verilir və sertifikat təqdim olunur.</p>
+    
+    <h2>Əlaqə</h2>
+    <p><b>TikTok:</b> <a href="https://www.tiktok.com/@darkevent1">darkevent1</a></p>
+    <p><b>Instagram:</b> <a href="https://www.instagram.com/dark.event1">dark.event1</a></p>
+    <p><b>Rəhbər Instagram:</b> <a href="https://www.instagram.com/isi_isml">isi_isml</a></p>
+    <p><b>Whatsapp/Zəng:</b> <a href="tel:+994517032127">+994 51 703 21 27</a></p>
+</body>
+</html>
